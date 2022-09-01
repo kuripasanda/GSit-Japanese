@@ -1,0 +1,60 @@
+#
+# Language-File created by:             Gecolay
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a プラグインを有効化しました！"
+  plugin-link: "[P]&6 %Link%&a との連携に成功しました！"
+  plugin-update: "[P]&a 新しいバージョンがリリースされました:&6 %NewVersion%&a!\n[P]&a あなたは過去のバージョンを実行しています:&6 %Version%&a!\n[P]&a 最新版はこちらからダウンロードしてくだ さい:\n[P]&6 %Path%"
+  plugin-version: "[P]&c このサーバーバージョンでは、このプラグインは使用できません！ (&b%Version%&c)"
+  plugin-disabled: "[P]&a プラグインを無効化しました"
+  plugin-prefix: "&7[&6GSit&7]"
+
+
+
+Messages:
+
+  command-reload: "[P]&a 設定を再読み込みすることに成功しました。"
+  command-permission-error: "[P]&c あなたはにはこのコマンドを実行する権限がありません"
+  command-sender-error: "[P]&c この送信者はこのコマンドを実行できない！"
+  command-version-error: "[P]&c サーバーバージョンが古い (&b%Version%&c)\n[P]&c この機能を使用するためにサーバーを更新してください"
+
+  command-gsit-toggle-on: "[P]&a 座る のクリックインタラクションが有効になりました。"
+  command-gsit-toggle-off: "[P]&a 座る のクリックインタラクションが無効になりました。"
+  command-gsit-playertoggle-on: "[P]&a PlayerSit のクリックインタラクションを有効にしました。"
+  command-gsit-playertoggle-off: "[P]&a PlayerSit のクリックインタラクションを無効にしました。"
+
+  action-sit-now-error: "[P]&c 今すぐには座れない！"
+  action-sit-world-error: "[P]&c このワールドでは座れない！"
+  action-sit-location-error: "[P]&c ここでは座れない！"
+  action-sit-safe-error: "[P]&c It's ここに座ると危ないよ！"
+  action-sit-region-error: "[P]&c この地域では座れない！"
+  action-sit-kick-error: "[P]&c もう誰かがここに座っている！"
+  action-sit-info: "&aUse your&6 <lang:key.sneak>&a キーで立ち上がれます"
+
+  action-playersit-info: "&aUse your&6 <lang:key.sneak>&a キーで起き上がれます"
+
+  action-pose-now-error: "[P]&c 今はポーズをとってはいけない！"
+  action-pose-world-error: "[P]&c このワールドではポーズをとってはいけない！"
+  action-pose-location-error: "[P]&c ここではポーズをとれない！"
+  action-pose-safe-error: "[P]&c ここでポーズをとると危ないよ！"
+  action-pose-region-error: "[P]&c この地域ではポーズをとれない！"
+  action-pose-kick-error: "[P]&c もう誰かがここでポーズをとっている！"
+  action-pose-info: "&aUse your&6 <lang:key.sneak>&a キーで起き上がれます"
+
+  action-crawl-now-error: "[P]&c 今は這いつくばれない！"
+  action-crawl-world-error: "[P]&c このワールドでは這いつくばれない！"
+  action-crawl-region-error: "[P]&c この地域では這いつくばれない！"
+  action-crawl-info: "&aUse your&6 <lang:key.sneak>&a キーで起き上がれます"
+
+  action-emote-stop-error: "[P]&c エモーションが止まらない！"
+  action-emote-stop: "[P]&a エモーションをやめました"
+  action-emote-exist-error: "[P]&6 %Emote%&c は存在しません"
+  action-emote-now-error: "[P]&c 今はエモートができない！"
+  action-emote-world-error: "[P]&c このワールドではエモートができない！"
+  action-emote-region-error: "[P]&c この地域ではエモートができない！"
+
+  action-blocked-error: "[P]&c このコマンドを今実行することはできない！"
